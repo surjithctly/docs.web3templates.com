@@ -1,16 +1,16 @@
 export default {
-  repository: "https://github.com/surjithctly/web3templates.com", // project repo
-  docsRepository: "https://github.com/surjithctly/web3templates.com/docs", // docs repo
+  repository: "https://github.com/surjithctly/docs.web3templates.com", // project repo
+  docsRepository: "https://github.com/surjithctly/docs.web3templates.com", // docs repo
   branch: "main", // branch of docs
-  path: "docs/", // path of docs
-  titleSuffix: " – Web3Templates",
+  path: "/", // path of docs
+  titleSuffix: " – Web3Templates Docs",
   nextLinks: true,
   prevLinks: true,
   search: true,
   customSearch: null, // customizable, you can use algolia for example
   darkMode: true,
   footer: true,
-  footerText: "© Web3Templates.",
+  footerText: `© Web3Templates`,
   footerEditOnGitHubLink: true, // will link to the docs repo
   logo: (
     <>
@@ -40,7 +40,7 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Web3Templates Documentation" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@surjithctly" />
+      <meta name="twitter:site" content="@web3templates" />
       <meta property="og:title" content="Docs — Web3Templates" />
       <meta property="og:description" content="Web3Templates Documentation" />
       <meta name="apple-mobile-web-app-title" content="Web3Templates Docs" />

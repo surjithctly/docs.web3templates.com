@@ -1,13 +1,11 @@
-# Welcome to Web3Templates Docs
+# Web3Templates Docs
 
-This course will show the journey from zero lines of code to production for a real SaaS app called [Fast Feedback](/introduction/product-overview). We'll build the application with modern, open-source software.
+Hey everyone, welcome to the brand new documentation website for Web3Templates. Here you can find documentation for all of our templates and tailwindcss components. Here are some quick links.
 
-- [Next.js](https://nextjs.org/) / [React](https://reactjs.org/)
-- [Firebase Authentication / Firestore](https://firebase.com/)
-- Subscription payments with [Stripe](https://stripe.com/)
-- Deployed serverless to [Vercel](https://vercel.com/)
+- [Template Docs](templates)
+- [Components](components)
 
-This course will teach you all the skills necessary to launch your own SaaS business. We'll use an opinionated set of tooling, allowing us to focus on shipping our product. Then, you can spend more time doing the things you love.
+I can add some checkpoints here. Not sure what I could write
 
 - ✅ &nbsp; Building your product
 - ✅ &nbsp; Deploying with ease
@@ -15,10 +13,4 @@ This course will teach you all the skills necessary to launch your own SaaS busi
 - ✅ &nbsp; Working with modern tools
 - ✅ &nbsp; Transform front-end to full-stack.
 
-We'll quickly iterate and deploy our code, bringing our ideas to life across the full-stack. Using Jamstack and the optimal workflow for front-end developers, we'll:
-
-- Build dynamic applications that become static.
-- Push code to a repository with Git.
-- Deploy instantly to a global CDN.
-
-This written guide is meant to complement the [product codebase](https://github.com/leerob/fastfeedback). If you have any questions, feel free to reach out to `me@leerob.io` or [@leeerob](https://twitter.com/leeerob).
+This documentation is prepared by [@surjithctly](https://twitter.com/surjithctly). If you have any further questions, feel free to reach out to [Support](https://web3templates.com/support). You can also contribute to this docs on [github](https://github.com/surjithctly/docs.web3templates.com).
