@@ -7,10 +7,10 @@ module.exports = withNextra({
     config.plugins.pop(); // remove stork plugin which was added by nextra. Remove when nextra version is bumped!
     return config;
   },
-  i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
-  },
+  // i18n: {
+  //   locales: ["en"],
+  //   defaultLocale: "en",
+  // },
   future: {
     webpack5: true,
   },
